@@ -1,6 +1,21 @@
 = NodeMCU_Firebase Library for NodeMCU =
 
 This library allows an NodeMCU to connect to the NodeMCU_Firebase service.
+NodeMCU_Firebase Library for :
+ 1. Measuring distance by Ultrasonic sensor HC-SR04 by NodeMCU, and sending value to Firebase. 
+ 2. Receiving commands for relay from Firebase.
+
+ The circuit:
+  Node MCU                   HC-SR04
+  D3              ———->      Echo
+  D4              ———->      Trig
+  5V              ———->      VCC
+  GND             ———->      GND
+
+  Node MCU                   Relay
+  D0              ———->      IN
+  3.3V            ———->      VCC
+  GND             ———->      GND
 
 == License ==
 
