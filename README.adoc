@@ -1,0 +1,7 @@
+= NodeMCU_Firebase Library for NodeMCU =
+
+This library allows an NodeMCU to connect to the NodeMCU_Firebase service.
+
+== License ==
+
+Copyright 2019, NodeMCU_Firebase Inc.

@@ -1,0 +1,30 @@
+#######################################
+# Syntax Coloring Map ProgramLogic
+#######################################
+
+#######################################
+# Class (KEYWORD1)
+#######################################
+
+NodeMCU_Firebase	KEYWORD1
+HC_SR04	KEYWORD1
+Relay	KEYWORD1
+
+#######################################
+# Datatypes (KEYWORD2)
+#######################################
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+NodeMCU_Firebase	KEYWORD2
+Loop	KEYWORD2
+SetupFirebase	KEYWORD2
+SetRelay	KEYWORD2
+IsItTimeToMeasure	KEYWORD2
+HC_SR04	KEYWORD2
+SetPins	KEYWORD2
+ReadDistance	KEYWORD2
+SetPin	KEYWORD2
+SetState	KEYWORD2
